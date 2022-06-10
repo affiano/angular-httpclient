@@ -66,16 +66,3 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 * `change directory` cd ui
 * launch html pages in your browser
 
-
-### Author
-* Author  : danny
-
-### Documentation
-
-English Tutorials
-- Installation - https://www.ganatan.com/tutorials/httpclient-with-angular
-- Tutorials Step-by-Step - https://www.ganatan.com/tutorials/en
-
-Tutoriels en français
-- Installation - https://www.ganatan.com/tutorials/httpclient-avec-angular
-- Tutoriels Etape par étape - https://www.ganatan.com/tutorials
